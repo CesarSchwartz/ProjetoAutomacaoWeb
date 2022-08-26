@@ -17,10 +17,10 @@ errada daquele mesmo produto."). Após a busca o código cria uma planilha com t
 
 BIBLIOTECAS UTILIZADAS:
 
-selenium
-webdriver_manager
-win32com.client
-time
+selenium,
+webdriver_manager,
+win32com.client,
+time.
 
 ETAPAS DO PROJETO:
 
